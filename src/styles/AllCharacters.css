@@ -1,0 +1,17 @@
+.imageCharacters{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 5%;
+    border-color: #6ABF53;
+}
+
+#characterImages{
+    display:flex;
+    justify-items: center;
+}
+
+.characterImages{
+    border-radius: 5%;
+    border-width: 10%;
+    border-color: #6ABF53;
+}
